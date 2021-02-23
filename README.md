@@ -1,4 +1,4 @@
-# GTLauncherDependency
+# GTLauncherAssets
  - FFmpeg ([https://ffmpeg.org](https://ffmpeg.org))
  - GoodbyeDPI ([https://github.com/ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI))
 
